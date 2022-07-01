@@ -77,3 +77,36 @@
 }
 
 /* esercizio_6 */
+
+.ex-6-img {
+    width: 500px;
+}
+
+.ex-6-img:hover{
+    filter: grayscale(1);
+  
+}
+
+/* esercizio_7 */
+
+.ex-7-img {
+    width: 500px;
+}
+
+.ex-7-img:hover{
+    filter: grayscale(1);
+    transition:3.0s;
+
+}
+
+/* esercizio_8 */
+
+.ex-8-img {
+    width: 500px;
+}
+
+.ex-8-img:hover{
+    filter: grayscale(1);
+    transition:3.0s;
+    border-radius: 20px; 
+}
