@@ -110,3 +110,17 @@
     transition:3.0s;
     border-radius: 20px; 
 }
+
+/* esercizio_9 */
+
+.ex-9-img {
+    margin: 50px 100px;
+    width: 400px;
+}
+
+.ex-9-img:hover{
+    filter: grayscale(1);
+    transition:3.0s;
+    border-radius: 20px; 
+    max-width: 60%;
+}
