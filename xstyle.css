@@ -43,3 +43,18 @@
     transition: 3.0s ;
     border-radius: 50%;
 }
+
+/* esercizio 4 */
+
+.ex-4-square {
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+
+.ex-4-square:hover{
+    transition:3.0s;
+    opacity: 0;
+}
+
+/* esercizio_5 */
